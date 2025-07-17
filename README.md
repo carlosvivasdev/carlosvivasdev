@@ -44,8 +44,8 @@ Soy un ingeniero en tecnologías de la información con experiencia en:
 ### 📈 Estadísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlosvivasdev&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=carlosvivasdev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
