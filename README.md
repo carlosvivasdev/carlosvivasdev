@@ -58,9 +58,9 @@ Soy un ingeniero en tecnologías de la información con experiencia en:
 
 ### 📫 ¿Hablamos?
 
-- 🌍 [Mi sitio web](https://tusitio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/)
-- ✉️ tu.email@gmail.com
+- 🌍 [Mi sitio web](https://carlosvivas.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosvivasdev/)
+- ✉️ carlosvivasdev@gmail.com
 
 ---
 
